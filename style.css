@@ -94,12 +94,11 @@ section {
 }
 
 .header .user img {
-  padding-left: 2%;
   margin: 5rem 0;
   border: 1rem solid var(--lightblue);
   border-radius: 50%;
-  height: 15rem;
-  width: 15rem;
+  height: 20rem;
+  width: 20rem;
   box-shadow: var(--box-shadow);
 }
 
@@ -310,21 +309,21 @@ section {
 }
 
 .about .row .progress .bar-2-1 span {
-  width: 50%;
+  width: 90%;
 }
 
 .about .row .progress .bar-2-2 span {
-  width: 50%;
+  width: 90%;
 }
 
 .about .row .progress .bar-2-3 span {
-  width: 5%;
+  width: 85%;
 }
 .about .row .progress .bar-2-4 span {
-  width: 25%;
+  width: 80%;
 }
 .about .row .progress .bar-2-5 span {
-  width: 45%;
+  width: 80%;
 }
 .about .row .progress .bar-2-6 span {
   width: 65%;
